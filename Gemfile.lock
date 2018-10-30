@@ -248,7 +248,7 @@ DEPENDENCIES
   minitest-rails
   minitest-reporters
   normalize-rails
-  pg (>= 0.18, < 2.0)
+  pg
   pry-rails
   puma (~> 3.11)
   rails (~> 5.2.0)
